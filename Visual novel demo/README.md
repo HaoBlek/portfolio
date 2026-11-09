@@ -1,11 +1,11 @@
 # About Project
 
-**Sweet Blood** - A visual novel that combines a high-quality, engaging story with unique mini-games, whose mechanics are tied to the story's characters. The mini-games are used to earn currency for making dialogue choices in the story. 
+**Sweet Blood** is a visual novel that pairs an engaging story with unique mini-games whose mechanics are tied to the characters. Players earn in-game currency through the mini-games and spend it on dialogue choices, so every important decision in the story has to be earned.
 
-**Story:** The plot revolves around a heroine who, miraculously, didn't die. One day, she learns that her father was a magician, and she transfers to a new school. There, alongside her new friends, she is forced to come to terms with a world that is new to her, as well as the secrets of her father and her own life.   
+**Story**: A girl miraculously survives when she should have died. Soon after, she discovers that her father was a magician and transfers to a new school. There, alongside her new friends, she must come to terms with a world she never knew existed, and uncover the secrets of her father and her own past.
 
-**Platform:** Phone (Android).
+**Platform**: Mobile (Android)  
+**Built with**: Unity, Fungus  
+**Plans**: Finish the heroine’s route and release the game on Google Play.  
 
-**Plans:** Complete the heroine's story and release the game on Google Play
-
-Since the game isn't available on Google Play yet, you can download the APK file and install the latest build of the game. Currently, only Russian is supported.  
+The game isn’t on Google Play yet, but you can download the APK and install the latest build. Currently available in Russian only.
